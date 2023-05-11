@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studing at **[MMMUT](http://mmmut.ac.in)**
 
-- 🌱 I’m currently learning **C++,web develpment**
+- 🌱 I’m currently learning **C++,C,Data structure and algorithm,Full stack web develpment**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
